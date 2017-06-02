@@ -1,0 +1,15 @@
+checkpoints
+data
+video_frames
+dev
+old_models
+datasets
+.ipynb_checkpoints
+__pycache__
+README_old.md
+writeup_template.md
+*.pkl
+*.dat
+models.py
+*.hdf5
+*.csv

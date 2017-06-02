@@ -204,7 +204,7 @@ With a very strong performance on the validation set, the model was tested on th
 
 To address those minor details I curated a fine tuning set of a little under 50 frames and retrained the model with a very low learning rate (1e-5) over 10 epochs.
 
-The results this time were very encouraging and can be seen in this [video]('/video_output/project_video.mp4').
+The results this time were very encouraging and can be seen in this [video](./video_output/project_video.mp4).
 
 ## Final considerations
 
